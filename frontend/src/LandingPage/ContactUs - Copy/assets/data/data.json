@@ -1,0 +1,17 @@
+﻿{
+   "organisation_contact": "+91-06272-246579",
+   "organisation_email": "directorwit@yahoo.in",
+   "organisation_state": "Bihar",
+   "organisation_district": "Darbhanga",
+   "organisation_pin": "846004",
+   "organisation_address": "Mansar Colony",
+   "organisation_name": "Dr APJ Abdul Kalam WIT",
+   "submit_button_name": "Submit",
+   "form_heading": "Get in Touch with Us",
+   "form_subheading": "We are always looking for new exciting projects and collaborations. Feel free to contact!",
+   "full_name_label": "Full Name",
+   "email_label": "Email",
+   "subject_label": "Subject",
+   "type_message_label": "Type Message Here",
+   "contact_info_heading": "Contact Info"
+}
